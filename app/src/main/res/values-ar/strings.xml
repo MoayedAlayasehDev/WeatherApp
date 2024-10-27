@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="home_label">الرئيسية</string>
+    <string name="weather_label">الطقس</string>
+    <string name="search_label">بحث</string>
+    <string name="fav_label">المفضلة</string>
+    <string name="today_label">اليوم</string>
+    <string name="tomorrow_label">غدا</string>
+    <string name="cloudy_label">غائم</string>
+    <string name="humidity_label">رطوبة</string>
+    <string name="visibility_label">الرؤية</string>
+
+</resources>

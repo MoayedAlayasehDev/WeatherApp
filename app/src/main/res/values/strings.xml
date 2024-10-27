@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="home_label">Home</string>
+    <string name="weather_label">Weather</string>
+    <string name="search_label">Search</string>
+    <string name="fav_label">Favourite</string>
+    <string name="today_label">Today</string>
+    <string name="tomorrow_label">Tomorrow</string>
+    <string name="cloudy_label">Cloudy</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="visibility_label">Visibility</string>
+
+</resources>
